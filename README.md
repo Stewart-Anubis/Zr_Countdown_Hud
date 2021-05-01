@@ -20,4 +20,4 @@
 
 * sm_chud - (!chud) - Enabled/Disabled Client Countdown_Hud. "clientprefs".
 
-[![Watch the video](https://i.ibb.co/W6nCx4C/Sem-t-tulo.jpg)](https://youtu.be/aRwl9b5vhBc)
+[![Watch the video](https://i.ibb.co/V9H15Vt/Sem-t-tulo.jpg)](https://youtu.be/aRwl9b5vhBc)
