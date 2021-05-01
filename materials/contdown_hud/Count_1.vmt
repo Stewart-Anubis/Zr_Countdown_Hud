@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "contdown_hud/Count_1"
+	"$translucent" 1
+}
