@@ -48,7 +48,7 @@ char c_sChPath[PLATFORM_MAX_PATH];
 bool c_bChEnabe;
 bool g_bChEnabe[MAXPLAYERS+1] = {false, ...};
 
-Handle g_taskClean[33] = INVALID_HANDLE;
+Handle g_taskClean[MAXPLAYERS+1] = INVALID_HANDLE;
 Handle g_bChClientEnabe = INVALID_HANDLE;
 
 public Plugin myinfo =
