@@ -39,7 +39,7 @@
 
 #pragma newdecls required
 
-#define VERSION "1.0"
+#define VERSION "1.1"
 
 ConVar ChPath = null;
 ConVar ChEnabe = null;
@@ -66,7 +66,7 @@ public void OnPluginStart()
 	ChEnabe = CreateConVar("zr_countdownhud_enable", "1", "Enable or disable CountdownHud.");
 	g_bChClientEnabe = RegClientCookie("Zr_Countdown_Hud_Enable", "Zr Countdown Hud Enable.", CookieAccess_Protected);
 
-	RegConsoleCmd("sm_chud", Command_CountdowHud, "Enable or disable CountdownHud.");
+	RegConsoleCmd("sm_zchud", Command_CountdowHud, "Enable or disable CountdownHud.");
 
 	ChPath.AddChangeHook(ConVarChange);
 	ChEnabe.AddChangeHook(ConVarChange);

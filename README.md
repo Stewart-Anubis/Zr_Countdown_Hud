@@ -4,7 +4,11 @@
 * Sorry for my English.
 
 * Author Anubis Edition
-* Version = 1.0
+* Version = 1.1
+
+### New
+
+* The !chud command was changed to !zchud, because of conflict with another plugin "chat_hud.smx".
 
 ### Zr_Countdown_Hud
 
@@ -18,6 +22,6 @@
 
 ### Comannds
 
-* sm_chud - (!chud) - Enabled/Disabled Client Countdown_Hud. "clientprefs".
+* sm_chud - (!zchud) - Enabled/Disabled Client Countdown_Hud. "clientprefs".
 
 [![Watch the video](https://i.ibb.co/V9H15Vt/Sem-t-tulo.jpg)](https://youtu.be/aRwl9b5vhBc)
